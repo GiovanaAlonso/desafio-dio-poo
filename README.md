@@ -8,6 +8,7 @@ Desafio disponibilizado pela DIGITAL INNOVATION ONE de forma gratuita para a com
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 🛑 Pré-Requisitos
+
 ✅ Conhecer a sintaxe da Java
 
 ✅ Java JDK 11
